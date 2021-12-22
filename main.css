@@ -1,0 +1,20 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: dimgrey;
+}
+.banner {
+    padding: 0px ;
+    background-color: darkkhaki;
+
+}
+.blog {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 12px;
+    width: 28%;
+    float: left;
+    padding: 10px;
+}
+
+

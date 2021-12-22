@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+}
+nav{
+    background-color:purple;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color:white;
+    font-size: 25px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+    font-family: cursive;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0;
+    padding: 0 10px;
+}
+nav ul li a{
+    color: white;
+    font-size: 1rem;
+    border-radius: 3px;
+
+}
+a:hover{
+    color: cadetblue;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.about{
+    width: 80%;
+    margin: auto;
+    text-align:center;
+    padding-top: 120px;
+}
